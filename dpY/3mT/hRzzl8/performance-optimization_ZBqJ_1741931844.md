@@ -177,7 +177,6 @@ tools:
 
 pprof:
     https://rakyll.org/pprof-ui/
-    https://rakyll.org/profiler-labels/
     https://rakyll.org/custom-profiles/
 
 trace:
